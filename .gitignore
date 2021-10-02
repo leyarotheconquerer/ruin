@@ -1,1 +1,6 @@
 *.blend[0-9]
+.idea/
+.vs/
+Binaries/
+Intermediate/
+Saved/
